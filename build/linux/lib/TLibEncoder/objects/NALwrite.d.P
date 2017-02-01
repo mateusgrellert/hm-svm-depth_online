@@ -1,0 +1,15 @@
+objects/NALwrite.d.o: \
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp \
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h \
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h \
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h \
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.cpp :
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/NAL.h :
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/TComBitStream.h :
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibEncoder/NALwrite.h :
+ /home/grellert/hm-svm-depth_online/build/linux/lib/TLibEncoder/../../../../source/Lib/TLibCommon/CommonDef.h :

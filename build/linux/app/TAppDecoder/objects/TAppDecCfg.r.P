@@ -1,0 +1,23 @@
+objects/TAppDecCfg.r.o: \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h \
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.cpp :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/App/TAppDecoder/TAppDecCfg.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TypeDef.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TAppCommon/program_options_lite.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComChromaFormat.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/CommonDef.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRectangle.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/ContextTables.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/TComRom.h :
+ /home/grellert/hm-svm-depth_online/build/linux/app/TAppDecoder/../../../../source/Lib/TLibCommon/Debug.h :

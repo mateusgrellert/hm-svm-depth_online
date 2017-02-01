@@ -1,0 +1,214 @@
+
+HM software: Encoder Version [16.8] (including RExt)[Linux][GCC 4.8.4][64 bit] 
+
+
+Input          File                    : ../../origCfP/BasketballPass_416x240_50.yuv
+Bitstream      File                    : str.bin
+Reconstruction File                    : rec.yuv
+Real     Format                        : 416x240 50Hz
+Internal Format                        : 416x240 50Hz
+Sequence PSNR output                   : Linear average only
+Sequence MSE output                    : Disabled
+Frame MSE output                       : Disabled
+Cabac-zero-word-padding                : Enabled
+Frame/Field                            : Frame based coding
+Frame index                            : 0 - 11 (12 frames)
+Profile                                : main
+CU size / depth / total-depth          : 64 / 4 / 4
+RQT trans. size (min / max)            : 4 / 32
+Max RQT depth inter                    : 3
+Max RQT depth intra                    : 3
+Min PCM size                           : 8
+Motion search range                    : 64
+Intra period                           : 32
+Decoding refresh type                  : 1
+QP                                     : 37.00
+Max dQP signaling depth                : 0
+
+SVM CU Decision                   : 1
+Cb QP Offset                           : 0
+Cr QP Offset                           : 0
+QP adaptation                          : 0 (range=0)
+GOP size                               : 8
+Input bit depth                        : (Y:8, C:8)
+MSB-extended bit depth                 : (Y:8, C:8)
+Internal bit depth                     : (Y:8, C:8)
+PCM sample bit depth                   : (Y:8, C:8)
+Intra reference smoothing              : Enabled
+diff_cu_chroma_qp_offset_depth         : -1
+extended_precision_processing_flag     : Disabled
+implicit_rdpcm_enabled_flag            : Disabled
+explicit_rdpcm_enabled_flag            : Disabled
+transform_skip_rotation_enabled_flag   : Disabled
+transform_skip_context_enabled_flag    : Disabled
+cross_component_prediction_enabled_flag: Disabled
+high_precision_offsets_enabled_flag    : Disabled
+persistent_rice_adaptation_enabled_flag: Disabled
+cabac_bypass_alignment_enabled_flag    : Disabled
+log2_sao_offset_scale_luma             : 0
+log2_sao_offset_scale_chroma           : 0
+Cost function:                         : Lossy coding (default)
+RateControl                            : 0
+WPMethod                               : 0
+Max Num Merge Candidates               : 5
+
+TOOL CFG: IBD:0 HAD:1 RDQ:1 RDQTS:1 RDpenalty:0 SQP:0 ASR:0 MinSearchWindow:8 RestrictMESampling:0 FEN:1 ECU:0 FDM:1 CFM:0 ESD:0 RQT:1 TransformSkip:1 TransformSkipFast:1 TransformSkipLog2MaxSize:2 Slice: M=0 SliceSegment: M=0 CIP:0 SAO:1 PCM:0 TransQuantBypassEnabled:0 WPP:0 WPB:0 PME:2  WaveFrontSynchro:0 WaveFrontSubstreams:1 ScalingList:0 TMVPMode:1 AQpS:0 SignBitHidingFlag:1 RecalQP:0
+
+Non-environment-variable-controlled macros set as follows: 
+
+                                RExt__DECODER_DEBUG_BIT_STATISTICS =   0
+                                      RExt__HIGH_BIT_DEPTH_SUPPORT =   0
+                            RExt__HIGH_PRECISION_FORWARD_TRANSFORM =   0
+                                        O0043_BEST_EFFORT_DECODING =   0
+                                         ME_ENABLE_ROUNDING_OF_MVS =   1
+        U0040_MODIFIED_WEIGHTEDPREDICTION_WITH_BIPRED_AND_CLIPPING =   1
+
+                   Input ChromaFormatIDC =   4:2:0
+       Output (internal) ChromaFormatIDC =   4:2:0
+
+POC    0 TId: 0 ( I-SLICE, nQP 37 QP 37 )      23256 bits [Y 33.0569 dB    U 38.2080 dB    V 37.9442 dB] [ET  0.51 ] [L0 ] [L1 ]
+POC    8 TId: 0 ( B-SLICE, nQP 38 QP 38 )       7688 bits [Y 32.7975 dB    U 38.2311 dB    V 38.0527 dB] [ET  1.34 ] [L0 0 ] [L1 0 ]
+POC    4 TId: 1 ( B-SLICE, nQP 39 QP 39 )       2000 bits [Y 31.7297 dB    U 38.0612 dB    V 37.5908 dB] [ET  1.72 ] [L0 0 8 ] [L1 8 0 ]
+POC    2 TId: 2 ( B-SLICE, nQP 40 QP 40 )        984 bits [Y 31.8141 dB    U 38.1888 dB    V 37.5065 dB] [ET  2.03 ] [L0 0 4 ] [L1 4 8 ]
+POC    1 TId: 3 ( B-SLICE, nQP 41 QP 41 )        296 bits [Y 31.8704 dB    U 38.1605 dB    V 37.5416 dB] [ET  1.85 ] [L0 0 2 ] [L1 2 4 ]
+POC    3 TId: 3 ( B-SLICE, nQP 41 QP 41 )        248 bits [Y 31.4794 dB    U 38.1287 dB    V 37.5855 dB] [ET  2.10 ] [L0 2 0 ] [L1 4 8 ]
+POC    6 TId: 2 ( B-SLICE, nQP 40 QP 40 )        920 bits [Y 31.8235 dB    U 38.1851 dB    V 37.6384 dB] [ET  1.89 ] [L0 4 0 ] [L1 8 4 ]
+POC    5 TId: 3 ( B-SLICE, nQP 41 QP 41 )        272 bits [Y 31.6482 dB    U 38.1520 dB    V 37.7758 dB] [ET  2.11 ] [L0 4 0 ] [L1 6 8 ]
+*
+optimization finished, #iter = 55
+nu = 0.543480
+obj = -23.268186, rho = -0.078814
+nSV = 35, nBSV = 21
+Total nSV = 35
+.*
+optimization finished, #iter = 79
+nu = 0.529252
+obj = -23.583559, rho = -0.238215
+nSV = 39, nBSV = 23
+Total nSV = 39
+*
+optimization finished, #iter = 40
+nu = 0.516634
+obj = -22.042621, rho = 0.000789
+nSV = 33, nBSV = 20
+Total nSV = 33
+*
+optimization finished, #iter = 38
+nu = 0.539967
+obj = -23.501211, rho = 0.102219
+nSV = 34, nBSV = 23
+Total nSV = 34
+*
+optimization finished, #iter = 50
+nu = 0.529921
+obj = -22.023398, rho = 0.026644
+nSV = 37, nBSV = 20
+Total nSV = 37
+*
+optimization finished, #iter = 60
+nu = 0.519940
+obj = -28.574801, rho = 0.019206
+nSV = 45, nBSV = 27
+Total nSV = 45
+*
+optimization finished, #iter = 49
+nu = 0.169444
+obj = -17.272222, rho = 0.254699
+nSV = 30, nBSV = 14
+Total nSV = 30
+*
+optimization finished, #iter = 71
+nu = 0.193464
+obj = -19.750892, rho = 0.252761
+nSV = 34, nBSV = 12
+Total nSV = 34
+*
+optimization finished, #iter = 55
+nu = 0.173462
+obj = -17.005192, rho = 0.370821
+nSV = 31, nBSV = 11
+Total nSV = 31
+*
+optimization finished, #iter = 49
+nu = 0.171774
+obj = -17.373048, rho = 0.230002
+nSV = 29, nBSV = 13
+Total nSV = 29
+*
+optimization finished, #iter = 62
+nu = 0.163720
+obj = -16.636340, rho = 0.322151
+nSV = 28, nBSV = 11
+Total nSV = 28
+*
+optimization finished, #iter = 67
+nu = 0.166628
+obj = -21.451384, rho = 0.352647
+nSV = 37, nBSV = 18
+Total nSV = 37
+*
+optimization finished, #iter = 66
+nu = 0.085106
+obj = -9.252612, rho = -0.660870
+nSV = 27, nBSV = 6
+Total nSV = 27
+*
+optimization finished, #iter = 66
+nu = 0.104519
+obj = -11.080036, rho = -0.488599
+nSV = 30, nBSV = 8
+Total nSV = 30
+*
+optimization finished, #iter = 71
+nu = 0.106422
+obj = -11.324129, rho = -0.588396
+nSV = 31, nBSV = 9
+Total nSV = 31
+*
+optimization finished, #iter = 55
+nu = 0.042553
+obj = -4.720088, rho = -0.733091
+nSV = 24, nBSV = 4
+Total nSV = 24
+*
+optimization finished, #iter = 86
+nu = 0.093475
+obj = -9.602386, rho = -0.627295
+nSV = 29, nBSV = 5
+Total nSV = 29
+*
+optimization finished, #iter = 70
+nu = 0.085383
+obj = -11.544077, rho = -0.604084
+nSV = 33, nBSV = 8
+Total nSV = 33
+POC    7 TId: 3 ( B-SLICE, nQP 41 QP 41 )        328 bits [Y 32.0304 dB    U 38.2372 dB    V 37.9028 dB] [ET  1.89 ] [L0 6 4 ] [L1 8 6 ]
+POC   10 TId: 2 ( B-SLICE, nQP 40 QP 40 )       1504 bits [Y 30.5245 dB    U 37.6665 dB    V 36.4574 dB] [ET  0.44 ] [L0 8 4 ] [L1 8 4 ]
+POC    9 TId: 3 ( B-SLICE, nQP 41 QP 41 )        360 bits [Y 31.6279 dB    U 38.1673 dB    V 37.7098 dB] [ET  0.45 ] [L0 8 10 ] [L1 10 8 ]
+POC   11 TId: 3 ( B-SLICE, nQP 41 QP 41 )        480 bits [Y 29.5230 dB    U 37.4441 dB    V 35.9287 dB] [ET  0.42 ] [L0 10 8 ] [L1 10 8 ]
+
+
+SUMMARY --------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR 
+	       12    a     159.7333   31.6605   38.0692   37.4695   32.8305
+
+
+I Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR 
+	        1    i    1162.8000   33.0569   38.2080   37.9442   34.1826
+
+
+P Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR 
+	        0    p         -nan      -nan      -nan      -nan      -nan
+
+
+B Slices--------------------------------------------------------
+	Total Frames |   Bitrate     Y-PSNR    U-PSNR    V-PSNR    YUV-PSNR 
+	       11    b      68.5455   31.5335   38.0566   37.4264   32.7262
+
+RVM: 0.000
+Bytes written to file: 4851 (161.700 kbps)
+CU Split Count: 0.074074 0.054795 0.000000 0.0 
+
+ Total Time:       16.762 sec.
